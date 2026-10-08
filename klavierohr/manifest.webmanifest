@@ -1,0 +1,17 @@
+{
+  "name": "Klavierohr",
+  "short_name": "Klavierohr",
+  "description": "Klavier üben mit dem iPad: Noten hochladen, spielen – die App hört zu, hakt ab und prüft Tempo und Notenlängen.",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#e9ecf2",
+  "theme_color": "#2f55d4",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
